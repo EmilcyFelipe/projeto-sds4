@@ -22,7 +22,7 @@ export default function DonutChart() {
 
                 setChartData({ labels: myLabels, series: mySeries });
             })
-    }, []);
+    }, [])
 
 
 
