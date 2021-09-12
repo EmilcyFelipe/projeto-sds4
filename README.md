@@ -1,4 +1,4 @@
-# projeto-sds4
+# Projeto-sds4 Dev Superior
 
 This project is builded on week of Spring React from DevSuperior, the event was taugh by Nélio Alves
 
